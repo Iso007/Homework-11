@@ -1,5 +1,9 @@
 # Unit 11 Express Homework: Note Taker
 
+## Deployed
+
+* Heroku deployment: https://gentle-dusk-24648.herokuapp.com/
+
 ## Description
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
